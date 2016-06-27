@@ -1,4 +1,4 @@
-FUNCTION_BLOCK simulador
+FUNCTION_BLOCK marcha
    
       VAR_INPUT
           aceleracao_motorista: REAL;
